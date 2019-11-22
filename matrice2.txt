@@ -1,0 +1,19 @@
+
+NBLignes  = 3
+
+Matrice   =[
+2 2 2
+3 3 3 5 2 1
+]
+
+NBColonnes   = 
+
+
+3
+
+
+
+TypeMatrice
+
+
+= double

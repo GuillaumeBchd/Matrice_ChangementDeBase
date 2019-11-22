@@ -1,0 +1,10 @@
+NBLignes  = 3
+
+NBColonnes   = 3
+TypeMatrice= double
+ 
+Matrice   =[
+3 3 3
+3 3 3
+4 4 4
+]
